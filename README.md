@@ -7,6 +7,8 @@ Made for personal use to keep info centralized, and happy to share it!
 ## Link
 [Go To The App](https://positional-embedding-wddrbmnuxb2yyxeqd7mikh.streamlit.app/)
 
+![alt text](assets/image.png)
+![alt text](assets/image-1.png)
 
 ## Usage
 
